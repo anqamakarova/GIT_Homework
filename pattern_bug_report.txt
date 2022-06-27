@@ -1,3 +1,5 @@
+Structure of bug-report with comments.
+
 The indispensable elements are:
 
 1. ID/name: 
